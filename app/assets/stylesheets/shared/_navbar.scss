@@ -1,0 +1,57 @@
+.navbar-minimalist {
+  height: 70px;
+  background: red;
+  box-shadow: 0px -2px 10px rgba(0,0,0,0.3);
+  display: flex;
+  align-items: center;
+  width: 100%;
+  color: white;
+  // z-index: 1000;
+  // position: fixed;
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+    color: white;
+    .left {
+      float: left;
+      color: white;
+    }
+    .right {
+      float: right;
+      color: white;
+    }
+    li {
+      float: left;
+      color: white;
+      p a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      }
+      p:hover {
+      color: white;
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
