@@ -31,7 +31,7 @@ gem 'jquery-rails'
 gem 'popper_js'
 gem 'figaro'
 gem 'cloudinary'
-
+gem 'carrierwave'
 
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 
