@@ -29,6 +29,8 @@ gem 'autoprefixer-rails'
 gem 'font-awesome-sass'
 gem 'jquery-rails'
 gem 'popper_js'
+gem 'figaro'
+
 
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 
